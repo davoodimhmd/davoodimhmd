@@ -2,16 +2,16 @@
 #### 🔭 I’m currently working on  
 Developing scalable web applications with Node.js, React, and Next.js, and building AI-driven solutions for educational and metaverse platforms.  
 
-👯 I’m looking to collaborate on  
+#### 👯 I’m looking to collaborate on  
 Innovative projects in AI, web development, or SaaS platforms that aim to make a global impact.  
 
-🤝 I’m looking for help with  
+#### 🤝 I’m looking for help with  
 Exploring advanced DevOps practices and optimizing containerized deployments with Docker.  
 
-🌱 I’m currently learning  
+#### 🌱 I’m currently learning  
 Next.js with TypeScript and refining skills in cloud-based SaaS architecture and AI governance.  
 
-💬 Ask me about  
+#### 💬 Ask me about  
 Building educational platforms, integrating AI into applications, or designing efficient web solutions with modern technologies.  
 
 
