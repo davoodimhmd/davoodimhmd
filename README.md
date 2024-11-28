@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  
+#### 🔭 I’m currently working on  
 Developing scalable web applications with Node.js, React, and Next.js, and building AI-driven solutions for educational and metaverse platforms.  
 
 👯 I’m looking to collaborate on  
